@@ -1,4 +1,4 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+[![DepShield Badge](https://depshield.sonatype.org/badges/nille/paint-dirt-black/depshield.svg)](https://depshield.github.io)
 
 paint-dirt-black
 ================
